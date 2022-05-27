@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TiendasDon/static/css/main.2386850b.css",
+    "main.js": "/TiendasDon/static/js/main.83b4271d.js",
+    "static/js/937.b1cebe65.chunk.js": "/TiendasDon/static/js/937.b1cebe65.chunk.js",
+    "static/js/787.6be3f59e.chunk.js": "/TiendasDon/static/js/787.6be3f59e.chunk.js",
+    "static/media/publicity-example.jpg": "/TiendasDon/static/media/publicity-example.bbb3b8f7c1f4bcf66cdc.jpg",
+    "static/media/first-product.jpg": "/TiendasDon/static/media/first-product.60827bbda1d36a6d85d2.jpg",
+    "index.html": "/TiendasDon/index.html",
+    "main.2386850b.css.map": "/TiendasDon/static/css/main.2386850b.css.map",
+    "main.83b4271d.js.map": "/TiendasDon/static/js/main.83b4271d.js.map",
+    "937.b1cebe65.chunk.js.map": "/TiendasDon/static/js/937.b1cebe65.chunk.js.map",
+    "787.6be3f59e.chunk.js.map": "/TiendasDon/static/js/787.6be3f59e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2386850b.css",
+    "static/js/main.83b4271d.js"
+  ]
+}
